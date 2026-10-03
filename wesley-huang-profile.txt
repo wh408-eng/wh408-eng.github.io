@@ -1,9 +1,12 @@
 WESLEY HUANG
-Student | Rutgers Business School
+Supply Chain Management Major | Rutgers Business School
 
 LINKEDIN
 https://www.linkedin.com/in/huang-wesley-810577326/
 
+AREAS OF INTEREST
+Inventory planning, procurement, logistics, and supply chain resilience.
+
 PORTFOLIO
-A student portfolio exploring finance, marketing, technology, and analytics.
-The interactive projects are illustrative business demos, not claims of completed coursework or employment.
+Interactive inventory and freight comparison tools, plus a procurement decision challenge.
+These are illustrative demos, not claims of completed coursework or employment.
